@@ -1,4 +1,4 @@
-import './style.css';
+
 import { db, collection, doc, setDoc, addDoc, onSnapshot, getDoc, updateDoc } from './firebaseConfig.js';
 
 // Global state for peer connection
